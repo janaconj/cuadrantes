@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Cuadrates</string>
+    <string name="titulo_1">Objetivo #1</string>
+    <string name="titulo_2">Objetivo #2</string>
+    <string name="titulo_3">Objetivo #3</string>
+    <string name="titulo_4">Objetivo #4</string>
+    <string name="cuerpo_1">Garantizar la eficiencia, continuidad, calidad y seguridad en la prestación del servicio público de distribución de energía eléctrica</string>
+    <string name="cuerpo_2">Reducir las pérdidas de energía eléctrica, en las Redes Generales de Distribución</string>
+    <string name="cuerpo_3">Generar valor económico, rentabilidad y sustentable para la CFE y el Estado Mexicano, contribuyendo al desarrollo del país</string>
+    <string name="cuerpo_4">Incrementar la calidad operativa cumpliendo la regulación e impulsando la innovación, a la altura de las mejores prácticas internacionales</string>
 </resources>
